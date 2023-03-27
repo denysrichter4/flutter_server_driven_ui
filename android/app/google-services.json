@@ -30,6 +30,13 @@
             {
               "client_id": "893529443653-kn6irtgbqgleqrk5tg329av6hiaaee9a.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "893529443653-7j0vvid6nd5hk391mk13gf134uoec64o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterServerDrivenUi"
+              }
             }
           ]
         }

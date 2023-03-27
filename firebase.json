@@ -4,5 +4,8 @@
   },
   "remoteconfig": {
     "template": "remoteconfig.template.json"
+  },
+  "hosting": {
+    "public": "build/web"
   }
 }
